@@ -1,10 +1,10 @@
 # 🎮 Simon Game
 
-A classic memory-based game built using HTML, CSS, and JavaScript where the player has to follow and repeat a sequence of colors. With each round, the sequence becomes longer, testing the player's memory!
+A classic memory-based game built using HTML, CSS, and JavaScript(j Query) where the player has to follow and repeat a sequence of colors. With each round, the sequence becomes longer, testing the player's memory!
 
 ## 🚀 Live Demo
 
-[Play the Simon Game](
+[Play the Simon Game](https://simon-game-two-opal.vercel.app/)
 
 ---
 
@@ -26,5 +26,5 @@ A classic memory-based game built using HTML, CSS, and JavaScript where the play
 
 ---
 
-## 📁 Project Structure
+
 
